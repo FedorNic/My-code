@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-09T18:41:07.971944800Z</date>
+  <millis>1657392067971</millis>
+  <nanos>944800</nanos>
+  <sequence>0</sequence>
+  <logger>Ex005_Logger</logger>
+  <level>WARNING</level>
+  <class>Ex005_Logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 1</message>
+</record>
+<record>
+  <date>2022-07-09T18:41:08.027795200Z</date>
+  <millis>1657392068027</millis>
+  <nanos>795200</nanos>
+  <sequence>1</sequence>
+  <logger>Ex005_Logger</logger>
+  <level>INFO</level>
+  <class>Ex005_Logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 2</message>
+</record>
+</log>
